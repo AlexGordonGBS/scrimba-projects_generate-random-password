@@ -1,0 +1,37 @@
+body {
+    margin: 0;
+    background: #ECFDF5;
+    text-align: center;
+    margin-left: 40px;
+}
+
+#password-container-el {
+    display: flex;
+    justify-content: center;
+    color: #5DEF92;
+}
+
+.password {
+    background: #273549;
+    padding: 10px;
+    border: none;
+    margin: 20px;
+    border-radius: 10px;
+    width: 211px;
+}
+
+#generate-passwords-button-el {
+    background: #10B981;
+    color: #FFFFFF;
+    padding: 10px;
+    border-radius: 10px;
+    border: none;
+}
+
+#h1-1-el {
+    color: #273549;    
+}
+
+#h1-2-el {
+    color: #10B981;    
+}
